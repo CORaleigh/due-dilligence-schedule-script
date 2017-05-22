@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CORaleigh/due-dilligence-schedule-script/issues"
   },
-  "homepage": "https://github.com/CORaleigh/due-dilligence-schedule-script#readme"
+  "homepage": "https://github.com/CORaleigh/due-dilligence-schedule-script#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
 }
